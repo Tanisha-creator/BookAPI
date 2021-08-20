@@ -1,0 +1,30 @@
+Requirements for our project
+We are a book management company
+
+BOOKS
+ISBN, title, publication date, language, page no, authors[], category[]
+
+AUTHORS
+id, name, books[]
+
+PUBLICATIONS
+id, name, books[]
+
+THESE ARE DATA OUR COMPANY HAS. WE HAVE TO MAKE APIs FOR THESE DATA
+
+APIs WE NEED :
+1. BOOKS
+   - to get all books
+   - to get specific books
+   - to get books based on category
+   - to get books based on languages
+
+2. AUTHORS
+   - to get all authors
+   - to get specific authors
+   - to get list of authors based on books
+   
+3. PUBLICATIONS 
+   - to get all publications
+   - to get specific publications
+   - to get list of publication based on book
